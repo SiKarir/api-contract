@@ -1,5 +1,4 @@
 # SiKarir API Contract
----
 
 `BASE_URL` = `https://example.com/api`
 
