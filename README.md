@@ -232,7 +232,8 @@
 `Authorization`: `Bearer <token>`
 
 * **Parameter** <br>
-`listUserAnswer` as `list[int]`
+`listUserAnswer` as `list[int]` <br>
+`quizId` as `string`
 
 * **Response** <br>
 ```
