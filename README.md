@@ -215,10 +215,6 @@
       "question": [
         "Lorem Ipsum?",
         "Lorem Ipsum?"
-      ],
-      "userAnswer": [
-        0,
-        1
       ]
     }
   ]
