@@ -60,6 +60,10 @@
 * **Method** <br>
 `PUT`
 
+
+* **Headers** <br>
+`Authorization`: `Bearer <token>`
+
 * **Request Body** <br>
 `username` as `string`, must be unique <br>
 `name` as `string` <br>
